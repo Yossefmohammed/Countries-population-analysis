@@ -51,7 +51,7 @@ The analysis utilizes a comprehensive dataset that includes:
    jupyter notebook
    ```
 
-4. Open `countries-population-analysis.ipynb`
+4. Open `https://github.com/Yossefmohammed/Countries-population-analysis/blob/main/countries-population-analysis.ipynb`
 
 ## Analysis Components
 1. **Data Exploration**
@@ -79,6 +79,11 @@ The analysis provides insights into:
 - Population density variations
 - Demographic correlations
 - Future population projections
+
+## Contact Information
+For any questions or inquiries, please contact:
+- Email: ypssefmohammdahmed@gmail.com
+- Phone: 01126078938
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
